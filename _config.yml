@@ -1,0 +1,28 @@
+name: fuzion
+favicon: null
+layout_spectrum: 0.3745423306245357
+typography_spectrum: 0.026914765825495124
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13250703061930835
+  lightness: 0.8393427580595016
+  saturation: 0.34042491810396314
+  rhythmicContrast: 0.06813659146428108
+purpose: []
